@@ -3,6 +3,12 @@
 **NFCare** leverages **NFC technology**, **5G connectivity**, **Edge Computing**, and **blockchain attestation** to create a real-time, verifiable system for tracking assistance and building reputation in large-scale events like hackathons, conferences, and relief operations.
 
 ---
+## **Group Members**
+- Aditya Chaplot (202151005)
+- Akshat Patel (202151014)
+- Kalp Patel (202151109)
+- Pratyaksha Tailor (202151118)
+- Anmol Wadhwani (202151178)
 
 ## **System Overview**
 
